@@ -37,5 +37,5 @@ Some questions to test your intuition:
   Is the probability of winning higher with 1 die, or 100?
   What number of dice gives the lowest probability of winning?
   
-By simulating many games in Java we quickly find the answers to these questions. It's harder to win than you may think!
+By simulating many games in Java we quickly find the answers to these questions. It's harder to win than you may think! The cases from 1 to 6 dice have been implemented, but it is easy to extend this to any number. The main classes are named onedice, twodice, etc.
   
